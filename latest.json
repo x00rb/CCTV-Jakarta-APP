@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.1.1",
-  "releaseUrl": "https://github.com/x00rb/CCTV-Jakarta-APP/releases/tag/v1.1.1",
-  "notes": "- Show update reminders once per app session with Later and Never (7b259a7)"
+  "versionCode": 13,
+  "versionName": "1.1.2",
+  "releaseUrl": "https://github.com/x00rb/CCTV-Jakarta-APP/releases/tag/v1.1.2",
+  "notes": "- Include embedded app version in architecture-specific APK filenames (ea4f355)"
 }
