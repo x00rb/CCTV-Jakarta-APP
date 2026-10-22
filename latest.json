@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.1.0",
-  "releaseUrl": "https://github.com/x00rb/CCTV-Jakarta-APP/releases/tag/v1.1.0",
-  "notes": "- Document recursive setup and start the 1.1.0 release line (158b02a)"
+  "versionCode": 12,
+  "versionName": "1.1.1",
+  "releaseUrl": "https://github.com/x00rb/CCTV-Jakarta-APP/releases/tag/v1.1.1",
+  "notes": "- Show update reminders once per app session with Later and Never (7b259a7)"
 }
