@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.20",
-  "releaseUrl": "https://github.com/x00rb/CCTV-Jakarta-APP/releases/tag/v1.0.20",
-  "notes": "- Name release APKs CCTV-Jakarta by architecture (ecf78e3)"
+  "versionCode": 11,
+  "versionName": "1.1.0",
+  "releaseUrl": "https://github.com/x00rb/CCTV-Jakarta-APP/releases/tag/v1.1.0",
+  "notes": "- Document recursive setup and start the 1.1.0 release line (158b02a)"
 }
