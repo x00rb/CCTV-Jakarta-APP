@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.19",
-  "releaseUrl": "https://github.com/x00rb/CCTV-Jakarta-APP/releases/tag/v1.0.19",
-  "notes": "- Release smaller ABI APKs with automatic publishing and commit changelogs (3aa63eb)"
+  "versionCode": 10,
+  "versionName": "1.0.20",
+  "releaseUrl": "https://github.com/x00rb/CCTV-Jakarta-APP/releases/tag/v1.0.20",
+  "notes": "- Name release APKs CCTV-Jakarta by architecture (ecf78e3)"
 }
