@@ -4,14 +4,14 @@ CCTV Jakarta APK distribution repository. This repository contains installation 
 
 ## Download
 
-Download APKs from the [Releases page](https://github.com/x00rb/CCTV-Jakarta-APP/releases). Starting with version 1.0.19, releases provide the three architecture-specific APKs listed below.
+Download APKs from the [Releases page](https://github.com/x00rb/CCTV-Jakarta-APP/releases). Starting with version 1.0.20, releases use the architecture-specific filenames listed below.
 
 ## Installation
 
 Install one APK:
 
 1. Open the Releases page and select a release.
-2. Download one matching APK from Assets: `app-arm64-v8a-release.apk` for most current phones, `app-armeabi-v7a-release.apk` for older 32-bit ARM devices, or `app-x86_64-release.apk` for 64-bit Intel devices and emulators. These are independently installable APKs; do not install all three. No universal or 32-bit x86 APK is provided.
+2. Download one matching APK from Assets: `CCTV-Jakarta-arm64-v8a.apk` for most current phones, `CCTV-Jakarta-armeabi-v7a.apk` for older 32-bit ARM devices, or `CCTV-Jakarta-x86_64.apk` for 64-bit Intel devices and emulators. These are independently installable APKs; do not install all three. No universal or 32-bit x86 APK is provided.
 3. Open the APK. If Android asks, allow installation from the browser or file manager you used.
 4. Follow Android's installation prompts.
 
