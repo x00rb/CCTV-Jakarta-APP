@@ -21,7 +21,7 @@ To update without removing application data, the APK must have the same applicat
 
 The `latest.json` file will be published after the first APK is available in Releases. It will contain `versionCode`, `versionName`, `releaseUrl`, and `notes`. The publisher updates this metadata only after uploading the APK and publishing its release.
 
-Android builds starting with 1.0.17 include automatic update checks once per day and a manual **Check for updates** action on the profile screen. Automatic failures are silent; manual checks report failures. Choosing **Later** dismisses that version's automatic notification. A manual check can still show it.
+From version 1.1.1, the app checks for updates once per foreground session and shows an available update automatically on a non-playback screen. **Later**, Back, or tapping outside dismisses it for that session; navigating cameras or maps does not show it again. Leave the app and reopen it to check again. **Never** disables all future automatic update popups. Profile's manual **Check for updates** remains available even after **Never**. **Download Update** opens the release page. Automatic failures are silent; manual checks report failures.
 
 The app reads:
 
